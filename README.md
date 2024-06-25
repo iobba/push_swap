@@ -38,7 +38,7 @@ For those seeking to extend the project, creating a custom checker program to ve
 
 Developing `push_swap` was a testament to the power of systematic problem-solving and the beauty of well-implemented algorithms. Each operation, initially abstract, became a tool in the arsenal of strategies to achieve the goal of sorting. The challenge lay not just in implementing the operations but in devising an efficient strategy to utilize them effectively.
 
-## The inspired algorithm
+## The inspiring algorithm
 
    - https://medium.com/@msouiyeh/not-your-typical-42network-push-swap-cc583f863a90
 
